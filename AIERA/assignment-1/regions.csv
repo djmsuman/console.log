@@ -1,0 +1,111 @@
+_id,region_id,sales_city,sales_state_province,sales_district,sales_region,sales_country,sales_district_id
+53c7c973ccf26e6de850bbf2,0,None,None,No District,No Region,No Country,0
+53c7c973ccf26e6de850bbf3,1,San Francisco,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bbf4,2,Mexico City,DF,Mexico City,Mexico Central,Mexico,118
+53c7c973ccf26e6de850bbf5,3,Los Angeles,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bbf6,4,Guadalajara,Jalisco,Guadalajara,Mexico West,Mexico,114
+53c7c973ccf26e6de850bbf7,5,Vancouver,BC,Vancouver,Canada West,Canada,128
+53c7c973ccf26e6de850bbf8,6,Victoria,BC,Victoria,Canada West,Canada,129
+53c7c973ccf26e6de850bbf9,7,San Diego,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bbfa,8,Coronado,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bbfb,9,National City,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bbfc,10,Lincoln Acres,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bbfd,11,La Mesa,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bbfe,12,Lemon Grove,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bbff,13,Chula Vista,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bc00,14,Imperial Beach,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bc01,15,Spring Valley,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bc02,16,El Cajon,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bc03,17,Grossmont,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bc04,18,Seattle,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc05,19,Redmond,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc06,20,Ballard,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc07,21,Issaquah,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc08,22,Portland,OR,Portland,North West,USA,120
+53c7c973ccf26e6de850bc09,23,Salem,OR,Salem,North West,USA,122
+53c7c973ccf26e6de850bc0a,24,Orizaba,Veracruz,Orizaba,Mexico Central,Mexico,119
+53c7c973ccf26e6de850bc0b,25,Hidalgo,Zacatecas,Hidalgo,Mexico Central,Mexico,115
+53c7c973ccf26e6de850bc0c,26,Merida,Yucatan,Marida,Mexico South,Mexico,117
+53c7c973ccf26e6de850bc0d,27,Camacho,Zacatecas,Camacho,Mexico Central,Mexico,113
+53c7c973ccf26e6de850bc0e,28,Acapulco,Guerrero,Acapulco,Mexico West,Mexico,110
+53c7c973ccf26e6de850bc0f,29,La Cruz,Sinaloa,Acapulco,Mexico West,Mexico,110
+53c7c973ccf26e6de850bc10,30,Tlaxiaco,Oaxaca,Tlaxiaco,Mexico South,Mexico,127
+53c7c973ccf26e6de850bc11,31,Daly City,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc12,32,Colma,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc13,33,La Jolla,CA,San Diego,South West,USA,133
+53c7c973ccf26e6de850bc14,34,Fremont,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc15,35,Richmond,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc16,36,Berkeley,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc17,37,Oakland,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc18,38,Mill Valley,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc19,39,San Jose,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc1a,40,Santa Cruz,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc1b,41,Palo Alto,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc1c,42,Novato,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc1d,43,Burlingame,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc1e,44,San Carlos,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc1f,45,Redwood City,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc20,46,Concord,CA,San Francisco,Central West,USA,123
+53c7c973ccf26e6de850bc21,47,Beverly Hills,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc22,48,Long Beach,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc23,49,Santa Monica,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc24,50,Altadena,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc25,51,Arcadia,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc26,52,San Gabriel,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc27,53,Burbank,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc28,54,Glendale,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc29,55,Bellflower,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc2a,56,Lakewood,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc2b,57,Torrance,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc2c,58,Downey,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc2d,59,Newport Beach,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc2e,60,West Covina,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc2f,61,Pomona,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc30,62,Woodland Hills,CA,Los Angeles,South West,USA,116
+53c7c973ccf26e6de850bc31,63,Kirkland,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc32,64,Lake Oswego,OR,Portland,North West,USA,120
+53c7c973ccf26e6de850bc33,65,Milwaukie,OR,Portland,North West,USA,120
+53c7c973ccf26e6de850bc34,66,W. Linn,OR,Portland,North West,USA,120
+53c7c973ccf26e6de850bc35,67,Beaverton,OR,Portland,North West,USA,120
+53c7c973ccf26e6de850bc36,68,Oregon City,OR,Portland,North West,USA,120
+53c7c973ccf26e6de850bc37,69,Woodburn,OR,Salem,North West,USA,122
+53c7c973ccf26e6de850bc38,70,Corvallis,OR,Salem,North West,USA,122
+53c7c973ccf26e6de850bc39,71,Albany,OR,Salem,North West,USA,122
+53c7c973ccf26e6de850bc3a,72,Lebanon,OR,Salem,North West,USA,122
+53c7c973ccf26e6de850bc3b,73,Renton,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc3c,74,Burien,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc3d,75,Lynnwood,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc3e,76,Bremerton,WA,Bremerton,North West,USA,112
+53c7c973ccf26e6de850bc3f,77,Port Orchard,WA,Bremerton,North West,USA,112
+53c7c973ccf26e6de850bc40,78,Bellingham,WA,Bellingham,North West,USA,111
+53c7c973ccf26e6de850bc41,79,Anacortes,WA,Bellingham,North West,USA,111
+53c7c973ccf26e6de850bc42,80,Sedro Woolley,WA,Bellingham,North West,USA,111
+53c7c973ccf26e6de850bc43,81,Everett,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc44,82,Marysville,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc45,83,Edmonds,WA,Seattle,North West,USA,124
+53c7c973ccf26e6de850bc46,84,Tacoma,WA,Tacoma,North West,USA,126
+53c7c973ccf26e6de850bc47,85,Olympia,WA,Tacoma,North West,USA,126
+53c7c973ccf26e6de850bc48,86,Puyallup,WA,Tacoma,North West,USA,126
+53c7c973ccf26e6de850bc49,87,Spokane,WA,Spokane,North West,USA,125
+53c7c973ccf26e6de850bc4a,88,Walla Walla,WA,Walla Walla,North West,USA,131
+53c7c973ccf26e6de850bc4b,89,Yakima,WA,Yakima,North West,USA,132
+53c7c973ccf26e6de850bc4c,90,Richmond,BC,Vancouver,Canada West,Canada,128
+53c7c973ccf26e6de850bc4d,91,Westminster,BC,Vancouver,Canada West,Canada,128
+53c7c973ccf26e6de850bc4e,92,Burnaby,BC,Vancouver,Canada West,Canada,128
+53c7c973ccf26e6de850bc4f,93,Haney,BC,Vancouver,Canada West,Canada,128
+53c7c973ccf26e6de850bc50,94,Langley,BC,Vancouver,Canada West,Canada,128
+53c7c973ccf26e6de850bc51,95,Newton,BC,Vancouver,Canada West,Canada,128
+53c7c973ccf26e6de850bc52,96,Ladner,BC,Vancouver,Canada West,Canada,128
+53c7c973ccf26e6de850bc53,97,N. Vancouver,BC,Vancouver,Canada West,Canada,128
+53c7c973ccf26e6de850bc54,98,Port Hammond,BC,Vancouver,Canada West,Canada,128
+53c7c973ccf26e6de850bc55,99,Oak Bay,BC,Victoria,Canada West,Canada,129
+53c7c973ccf26e6de850bf22,100,Royal Oak,BC,Victoria,Canada West,Canada,129
+53c7c973ccf26e6de850bf23,101,Sooke,BC,Victoria,Canada West,Canada,129
+53c7c973ccf26e6de850bf24,102,Langford,BC,Victoria,Canada West,Canada,129
+53c7c973ccf26e6de850bf25,103,Cliffside,BC,Victoria,Canada West,Canada,129
+53c7c973ccf26e6de850bf26,104,Metchosin,BC,Victoria,Canada West,Canada,129
+53c7c973ccf26e6de850bf27,105,Shawnee,BC,Victoria,Canada West,Canada,129
+53c7c973ccf26e6de850bf28,106,San Andres,DF,Mexico City,Mexico Central,Mexico,118
+53c7c973ccf26e6de850bf29,107,Tixapan,DF,Mexico City,Mexico Central,Mexico,118
+53c7c973ccf26e6de850bf2a,108,Santa Anita,DF,Mexico City,Mexico Central,Mexico,118
+53c7c973ccf26e6de850bf2b,109,Santa Fe,DF,Mexico City,Mexico Central,Mexico,118
